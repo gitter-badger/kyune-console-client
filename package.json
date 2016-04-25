@@ -1,7 +1,7 @@
 {
   "name": "kyune-console-client",
-  "version": "0.0.0",
-  "description": "Kyune CMS Console",
+  "version": "0.0.1",
+  "description": "Kyune CMS :: Console / Client",
   "repository": {
     "url": "https://github.com/CodeCarvings/kyune-console-client"
   },
